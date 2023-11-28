@@ -1,6 +1,8 @@
 ### 衣物颜色匹配大作业 自93王逸钦 2019010850
 
-[Download Report](./report.pdf)
+[Download Project Requirement](./requirement_zh-CN.pdf)
+
+[Download Report](./report_zh-CN.pdf)
 
 **文件列表：**
 
