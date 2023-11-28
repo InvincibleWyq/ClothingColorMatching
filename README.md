@@ -1,4 +1,4 @@
-# Clothing Color Matching
+# DL Based Clothing Color Matching
 
 [Download Project Requirement](./requirement_zh-CN.pdf)
 
