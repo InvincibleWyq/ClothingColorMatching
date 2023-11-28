@@ -1,4 +1,4 @@
-### Clothing Color Matching Project by Yiqin Wang 2019010850
+# Clothing Color Matching
 
 [Download Project Requirement](./requirement_zh-CN.pdf)
 
