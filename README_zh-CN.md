@@ -1,5 +1,9 @@
 # 基于深度学习的衣物颜色匹配
 
+模式识别与机器学习 课程项目 (2022春)，清华大学自动化系
+
+任课教师: [汪小我](https://scholar.google.com/citations?user=r0KzDh8AAAAJ&hl=en-US), [张学工](https://scholar.google.com/citations?user=o2ZRDe4AAAAJ&hl=en-US)
+
 [下载项目要求](./requirement_zh-CN.pdf)
 
 [下载报告](./report_zh-CN.pdf)

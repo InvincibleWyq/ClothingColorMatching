@@ -1,5 +1,9 @@
 # DL Based Clothing Color Matching
 
+A course project for Pattern Recognition and Machine Learning, Spring 2022 @ Department of Automation, Tsinghua
+
+Lecturer: [Xiaowo Wang](https://scholar.google.com/citations?user=r0KzDh8AAAAJ&hl=en-US), [Xuegong Zhang](https://scholar.google.com/citations?user=o2ZRDe4AAAAJ&hl=en-US)
+
 [Download Project Requirement](./requirement_zh-CN.pdf)
 
 [Download Report](./report_zh-CN.pdf)
